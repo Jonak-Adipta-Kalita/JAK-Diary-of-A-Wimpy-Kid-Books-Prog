@@ -5,6 +5,18 @@
 			"name": "Diary of a Wimpy Kid",
 			"image": "diary-of-a-wimpy-kid.png",
 			"published": "April 1, 2007"
+		},
+		{
+			"id": 1,
+			"name": "Rodrick Rules",
+			"image": "rodrick-rules.png",
+			"published": "February 1, 2008"
+		},
+		{
+			"id": 2,
+			"name": "Last Straw",
+			"image": "last-straw.png",
+			"published": "January 1, 2009"
 		}
 	]
 }
