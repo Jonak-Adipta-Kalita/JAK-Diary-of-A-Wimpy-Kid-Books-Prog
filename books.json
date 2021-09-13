@@ -1,0 +1,10 @@
+{
+	"book": [
+		{
+			"id": 0,
+			"name": "Diary of a Wimpy Kid",
+			"image": "diary-of-a-wimpy-kid.png",
+			"published": "April 1, 2007"
+		}
+	]
+}
