@@ -93,8 +93,26 @@
 		{
 			"id": 15,
 			"name": "Big Shot",
-			"image": "big-shot",
+			"image": "big-shot.png",
 			"published": "October 26, 2021"
+		},
+		{
+			"id": 16,
+			"name": "Diary Of an Awesome Friendly Kid: Rowley Jefferson's Journal",
+			"image": "diary-of-an-awesome-friendly-kid-rowley-jefferson-journal.png",
+			"published": "April 9, 2019"
+		},
+		{
+			"id": 17,
+			"name": "Rowley Jefferson's Awesome Friendly Adventure",
+			"image": "rowley-jefferson-awesome-friendly-adventure.png",
+			"published": "August 4, 2020"
+		},
+		{
+			"id": 18,
+			"name": "Rowley Jefferson's Awesome Friendly Spooky Stories",
+			"image": "rowley-jefferson-awesome-friendly-spooky-stories.png",
+			"published": "March 16, 2021"
 		}
 	]
 }
