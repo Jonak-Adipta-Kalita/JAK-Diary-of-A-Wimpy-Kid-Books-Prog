@@ -17,6 +17,24 @@
 			"name": "Last Straw",
 			"image": "last-straw.png",
 			"published": "January 1, 2009"
+		},
+		{
+			"id": 3,
+			"name": "Dog Days",
+			"image": "dog-days.png",
+			"published": "October 1, 2009"
+		},
+		{
+			"id": 4,
+			"name": "Ugly Truth",
+			"image": "ugly-truth.png",
+			"published": "November 1, 2010"
+		},
+		{
+			"id": 4,
+			"name": "Cabin Fever",
+			"image": "cabin-fever.png",
+			"published": "November 1, 2011"
 		}
 	]
 }
