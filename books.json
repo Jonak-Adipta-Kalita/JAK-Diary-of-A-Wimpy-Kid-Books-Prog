@@ -113,6 +113,30 @@
 			"name": "Rowley Jefferson's Awesome Friendly Spooky Stories",
 			"image": "rowley-jefferson-awesome-friendly-spooky-stories.png",
 			"published": "March 16, 2021"
+		},
+		{
+			"id": 19,
+			"name": "The Movie Diary",
+			"image": "the-movie-diary.png",
+			"published": "March 16, 2010"
+		},
+		{
+			"id": 20,
+			"name": "The Movie Diary: Next Chapter",
+			"image": "the-movie-diary-next-chapter.png",
+			"published": "May 1, 2017"
+		},
+		{
+			"id": 21,
+			"name": "Do it Yourself",
+			"image": "do-it-yourself.png",
+			"published": "May 1, 2011"
+		},
+		{
+			"id": 21,
+			"name": "Diary of A Wimpy Kid: Special Cheesiest Edition",
+			"image": "diary-of-a-wimpy-kid-special-cheesiest-edition.png",
+			"published": "August 1, 2017"
 		}
 	]
 }
