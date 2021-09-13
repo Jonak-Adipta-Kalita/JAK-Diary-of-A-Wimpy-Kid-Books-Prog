@@ -53,6 +53,24 @@
 			"name": "long-haul",
 			"image": "long-haul.png",
 			"published": "November 1, 2014"
+		},
+		{
+			"id": 7,
+			"name": "Old School",
+			"image": "old-school.png",
+			"published": "November 1, 2015"
+		},
+		{
+			"id": 8,
+			"name": "Double Down",
+			"image": "double-down.png",
+			"published": "November 1, 2016"
+		},
+		{
+			"id": 8,
+			"name": "The Getaway",
+			"image": "the-getaway.png",
+			"published": "November 27, 2017"
 		}
 	]
 }
