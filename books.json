@@ -35,6 +35,24 @@
 			"name": "Cabin Fever",
 			"image": "cabin-fever.png",
 			"published": "November 1, 2011"
+		},
+		{
+			"id": 5,
+			"name": "Third Wheel",
+			"image": "third-wheel.png",
+			"published": "November 1, 2012"
+		},
+		{
+			"id": 6,
+			"name": "Hard Luck",
+			"image": "hard-luck.png",
+			"published": "November 1, 2013"
+		},
+		{
+			"id": 6,
+			"name": "long-haul",
+			"image": "long-haul.png",
+			"published": "November 1, 2014"
 		}
 	]
 }
